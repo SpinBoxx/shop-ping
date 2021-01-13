@@ -1,0 +1,21 @@
+.primaryImg {
+  width: 540px;
+}
+
+@media screen and (max-width: 1060px) {
+  .RightPane {
+    margin-top: 32px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .profil {
+    margin-top: 32px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .primaryImg {
+    width: 400px
+  }
+}
